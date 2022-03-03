@@ -9,3 +9,6 @@
 # Breaks between meetings allow the brain to “reset,” reducing a cumulative buildup of stress across meetings.
 
 # https://www.microsoft.com/en-us/worklab/work-trend-index/brain-research
+
+# Meeting booking Etiquette
+# Leave 30 minute gaps between meetings
